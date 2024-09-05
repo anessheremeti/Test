@@ -25,7 +25,7 @@ function App() {
           />
           <div className="card-content">
             <h3>Card Title 2</h3>
-            <p>This is some text for card 2. It describes the content.</p>
+            <p>This is some text for card 2. It describes the content. As anes</p>
           </div>
         </div>
 
