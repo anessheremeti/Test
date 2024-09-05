@@ -13,7 +13,7 @@ function App() {
           />
           <div className="card-content">
             <h3>First Title </h3>
-            <p>This is some text for card 1. It describes the content.</p>
+            <p>This is some text for the first card. It describes the content.</p>
           </div>
         </div>
 
